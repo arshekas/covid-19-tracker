@@ -1,3 +1,9 @@
+# Live Site - 
+https://covid-19-tracker-arsh.firebaseapp.com/
+
+inspired by watching clever Programmer channel youtube.
+https://www.youtube.com/watch?v=cF3pIMJUZxM
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
